@@ -1,0 +1,25 @@
+#music-player {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  #player-controls {
+    margin-top: 20px;
+  }
+  
+  #play-button,
+  #pause-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  #play-button:hover,
+  #pause-button:hover {
+    background-color: #2980b9;
+  }
+  
